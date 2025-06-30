@@ -1,7 +1,7 @@
 
  👋 Hi, I'm Calistus Nnachebe undergraduate of histopathology medical laboratory science
 
-## ** Software Engineer |🔧DevOps Engineer |⚛️React Native |🐍Python/Django Expert**
+## ** Software Engineer** |🔧DevOps Engineer |⚛️React Native |🐍Python/Django Expert**
 
 I'm a passionate and versatile software engineer with more expertise on backend engineering and DevOps hands-on experience building scalable systems from frontend to backend.
 
