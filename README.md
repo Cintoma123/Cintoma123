@@ -21,7 +21,7 @@ I'm a passionate and versatile software engineer with more expertise on backend 
 
 - 🖥️ Strong command-line skills using **Linux**, **Shell Scripting**, and **Cron Jobs**
     
-- 🧠 Skilled in system design, API integration, and background task processing (**Celery**, **Redis**
+- 🧠 Skilled in system design, API integration, and background task processing (**Celery**, **Redis**)
   
 🎓 I developed these skills through the **ALX Software Engineering Program**, where I completed intensive front, backend and **DevOps** engineering tracks.
 
@@ -30,5 +30,5 @@ I'm a passionate and versatile software engineer with more expertise on backend 
 ### 📫 Connect with me
 
 - GitHub: https://github.com/Cintoma123  
-- LinkedIn: https://linkedin.com/in/Calistus Nnachebe  
+- LinkedIn: https://linkedin.com/in/CalistusNnachebe  
 - Email:calistusumehnnachebe@gmail.com 
