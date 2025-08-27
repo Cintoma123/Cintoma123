@@ -9,11 +9,11 @@ I'm a passionate and versatile software engineer with more expertise on backend 
 
 - ⚛️ **React Native** for intuitive, cross-platform mobile apps
   
-- 🐍 **Python**, **Django**,**Fastapi*** & **Django REST Framework** for clean backend APIs
+- 🐍 **Python**, **Django**,**Fastapi** & **Django REST Framework** for clean backend APIs
   
 - 🐳 **Docker** & ☸️ **Kubernetes** for containerization and orchestration
 
-- **HTML5** , **CSS3** , **JavaScript** , **React** , **Typescript*** , **Nextjs** **CSS-Precessors** for front end engineering
+- **HTML5** , **CSS3** , **JavaScript** , **React** , **Typescript** , **Nextjs** **CSS-Precessors** for front end engineering
  
 - 🔐 **SSH**, 🔥 **Firewall**, ⚖️ **Load Balancing** for secure infrastructure
   
