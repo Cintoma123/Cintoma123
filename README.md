@@ -9,7 +9,7 @@ I'm a passionate and versatile software engineer with more expertise on backend 
 
 - ⚛️ **React Native** for intuitive, cross-platform mobile apps
   
-- 🐍 **Python**, **Django**,**Fastapi** & **Django REST Framework** for clean backend APIs
+- 🐍 **Python**, **Django**,**Fastapi** & **Django REST Framework** & **supabase** for clean backend APIs
   
 - 🐳 **Docker** & ☸️ **Kubernetes** for containerization and orchestration
 
