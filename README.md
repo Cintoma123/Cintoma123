@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Calistus Nnachebe
 
-I'm an undergraduate in **Histopathology & Medical Laboratory Science**, and a passionate **Software & DevOps Engineer**.  
-I specialize in building **scalable full-stack systems** with hands-on experience across **frontend, backend, and infrastructure automation**.
+ Web3 DeFi Engineer | Full Stack Dev | Solidity • NestJS • Django rest framework • Next.js | Building dApps, DevTools & Open Source
 
 ---
 
