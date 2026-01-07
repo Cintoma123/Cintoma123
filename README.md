@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Calistus Nnachebe
 
- Web3 DeFi Engineer | Full Stack Dev | Solidity • NestJS • Django rest framework • Next.js | Building dApps, DevTools & Open Source
+ Blockchain dev | Full Stack Dev | Solidity • NestJS • Django rest framework • Next.js | Building dApps, DevTools & Open Source
 
 ---
 
